@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A Software Developer from Izmir/Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafafrw" alt="mustafafrw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafafrw" alt="mustafafrw" /></a> </p>
 
 - 🌱 I’m currently learning Vue.js, Nuxt.js, Node.js
 
@@ -37,7 +37,6 @@
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
-<a href="https://www.jetbrains.com/ruby/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" alt="rubymine" width="30" height="30"/> </a> 
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 
